@@ -1,5 +1,5 @@
 #pragma once
-#include "../include.hpp"
+#include <stdinc.hpp>
 
 namespace Conversion
 {

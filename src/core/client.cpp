@@ -1,4 +1,4 @@
-#include "client.hpp"
+#include <stdinc.hpp>
 
 auto Client::Get(const char* url, const char* route, const httplib::Headers headers) -> httplib::Result
 {
